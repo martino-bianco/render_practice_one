@@ -10,6 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
       <h1>YOYOYOYO</h1>
+      <p>Who can tell me what's giong on?</p>
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
